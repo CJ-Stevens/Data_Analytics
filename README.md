@@ -14,4 +14,8 @@
 ``` Channel = Aj Earn KMUTNB ```<br>
 []()<br>
 []()<br>
+
+```การถอดสแควรูท```<br>
+[การถอดสแควรูท](https://www.youtube.com/watch?v=pqOs_CTKQTw)<br>
+[]()<br>
 []()<br>
