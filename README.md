@@ -14,8 +14,15 @@
 ``` Channel = Aj Earn KMUTNB ```<br>
 []()<br>
 []()<br>
-
+[]()<br>
+```Channel = freeCodeCamp.org```<br>
+[Data Analytics Crash Course: Teach Yourself in 30 Days](https://www.youtube.com/watch?v=jcTj6FgWOpo)<br>
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug)<br>
+[]()<br>
 ```การถอดสแควรูท```<br>
 [การถอดสแควรูท](https://www.youtube.com/watch?v=pqOs_CTKQTw)<br>
 []()<br>
+[]()<br>
+```ก้อง รักสยาม DataRockie```<br>
+[Basic Statistics 101](https://www.youtube.com/watch?v=6WdLwsrXTNA&t=478s)<br>
 []()<br>
