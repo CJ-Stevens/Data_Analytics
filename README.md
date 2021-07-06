@@ -4,7 +4,7 @@
 [ไม่เก่ง Data Science ก็ทำ Machine Learning ได้](https://blog.datath.com/cloud-data-science/)<br>
 [คู่มือเปลี่ยนอาชีพ Data Scientist](https://blog.datath.com/data-scientist/)<br>
 [ทำไม Data Scientist ต้องเรียน Unix ?](https://blog.datath.com/data-scientist-unix/)<br>
-[วิชาความน่าจะเป็นและสถิติประยุกต์สำหรับวิศวกร](https://www.youtube.com/watch?v=kUv3gaq7Jpw)<br>
+[video นี้ดีมาก วิชาความน่าจะเป็นและสถิติประยุกต์สำหรับวิศวกร](https://www.youtube.com/watch?v=kUv3gaq7Jpw)<br>
 [[ Live ] สถิติทั้งบท (+การแจกแจงความน่าจะเป็น) part1 : By พี่ปั้น SmartMathPro](https://www.youtube.com/watch?v=VKblxmZfJ58)<br>
 
 ``` Channel Access-Creator ```<br>
