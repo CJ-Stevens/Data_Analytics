@@ -1,4 +1,4 @@
-### Data_Analytics
+### Statistics And Data_Analytics
 [Data Analytics](https://blog.datath.com/data-analytics-manager-at-predictive/?fbclid=IwAR1Y_VpPK-y3TrDtWpbWYszpzVO3W_N4VP7hQoS2O_69YkbXPZYzRkcnQoI)<br>
 [ทำงานด้าน Data Engineer มา 2 ปี ได้เรียนรู้อะไรบ้าง? (Soft Skills & Hard Skills)](https://blog.datath.com/data-engineer-soft-skills-hard-skills/)<br>
 [ไม่เก่ง Data Science ก็ทำ Machine Learning ได้](https://blog.datath.com/cloud-data-science/)<br>
@@ -11,27 +11,30 @@
 [มาเริ่มต้นทำฐานข้อมูลกัน: Ep.1 (เขียน ER Diagram)](https://www.youtube.com/watch?v=HuztS7t9hZc)<br>
 []()<br>
 []()<br>
-``` Channel = Aj Earn KMUTNB ```<br>
-[]()<br>
-[]()<br>
-[]()<br>
 ```Channel = freeCodeCamp.org```<br>
 [Data Analytics Crash Course: Teach Yourself in 30 Days](https://www.youtube.com/watch?v=jcTj6FgWOpo)<br>
 [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug)<br>
 []()<br>
-```การถอดสแควรูท```<br>
-[การถอดสแควรูท](https://www.youtube.com/watch?v=pqOs_CTKQTw)<br>
-[Introduction to Set Theory](https://www.youtube.com/watch?v=vGelH3Jibt4&list=RDCMUCNVMxRMEwvo9AS-Jfh6fQFg&index=2)<br>
-[]()<br>
 ```ก้อง รักสยาม DataRockie```<br>
 [Basic Statistics 101](https://www.youtube.com/watch?v=6WdLwsrXTNA&t=478s)<br>
 [สถิติเบื้องต้น ม.6 EP.1/10 ความหมายของสถิติ - www.theorendatutor.com](https://www.youtube.com/watch?v=iR7yM4uYynA)<br>
-```ดีมากๆ Linear Regression Analysis```<br>
+```Channel "statisticsfun"ดีมากๆ Linear Regression Analysis```<br>
 [An Introduction to Linear Regression Analysis](https://www.youtube.com/watch?v=zPG4NjIkCjc)<br>
 [How to calculate linear regression using least square method](https://www.youtube.com/watch?v=JvS2triCgOY)<br>
 [An introduction to Regression Analysis](https://www.youtube.com/watch?v=KADYlV95Bd0&list=RDCMUClD8c_piy1nrJySPJUgyivg&index=3)<br>
+[r pearson correlation coefficient](https://www.youtube.com/watch?v=KADYlV95Bd0&list=RDCMUClD8c_piy1nrJySPJUgyivg&index=4)<br>
+[Multiple Linear Regression Using R](https://www.youtube.com/watch?v=WRp_MpYQFbg&list=RDCMUClD8c_piy1nrJySPJUgyivg&index=4)<br>
+[How to calculate a regression equation, R Square, Using Excel Statistics](https://www.youtube.com/watch?v=Wdat_8a2404&list=RDCMUClD8c_piy1nrJySPJUgyivg&index=5)<br>
+[Linear Regression Using R](https://www.youtube.com/watch?v=SesWt4PDJdw&list=RDCMUClD8c_piy1nrJySPJUgyivg&index=6)<br>
 []()<br>
 []()<br>
+``` Channel = Aj Earn KMUTNB ```<br>
+[]()<br>
+[]()<br>
+[]()<br>
+```การถอดสแควรูท```<br>
+[การถอดสแควรูท](https://www.youtube.com/watch?v=pqOs_CTKQTw)<br>
+[Introduction to Set Theory](https://www.youtube.com/watch?v=vGelH3Jibt4&list=RDCMUCNVMxRMEwvo9AS-Jfh6fQFg&index=2)<br>
 []()<br>
 ```วิดีโอกำลังใจเรียนวิชาฟิสิก```<br>
 [กฎเหล็ก 5 ข้อสู่ความเก่งวิชาคำนวณ (ฟิสิกส์+คณิต) - Study Secrets Ep.4](https://www.youtube.com/watch?v=eE2mr7ykn9Q)<br>
