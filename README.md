@@ -26,6 +26,13 @@
 ```ก้อง รักสยาม DataRockie```<br>
 [Basic Statistics 101](https://www.youtube.com/watch?v=6WdLwsrXTNA&t=478s)<br>
 [สถิติเบื้องต้น ม.6 EP.1/10 ความหมายของสถิติ - www.theorendatutor.com](https://www.youtube.com/watch?v=iR7yM4uYynA)<br>
+```ดีมากๆ Linear Regression Analysis```<br>
+[An Introduction to Linear Regression Analysis](https://www.youtube.com/watch?v=zPG4NjIkCjc)<br>
+[How to calculate linear regression using least square method](https://www.youtube.com/watch?v=JvS2triCgOY)<br>
+[An introduction to Regression Analysis](https://www.youtube.com/watch?v=KADYlV95Bd0&list=RDCMUClD8c_piy1nrJySPJUgyivg&index=3)<br>
+[]()<br>
+[]()<br>
+[]()<br>
 ```วิดีโอกำลังใจเรียนวิชาฟิสิก```<br>
 [กฎเหล็ก 5 ข้อสู่ความเก่งวิชาคำนวณ (ฟิสิกส์+คณิต) - Study Secrets Ep.4](https://www.youtube.com/watch?v=eE2mr7ykn9Q)<br>
 [ทำได้ไง!? จากเด็กหลังห้อง สู่เทพฟิสิกส์ตัวแทนประเทศไทย!!! | CommonThink](https://www.youtube.com/watch?v=EqcJp6wJcfk)<br>
