@@ -21,8 +21,7 @@
 []()<br>
 ```การถอดสแควรูท```<br>
 [การถอดสแควรูท](https://www.youtube.com/watch?v=pqOs_CTKQTw)<br>
-[ตื่นมาติว Admission ฟิสิกส์ EP.1 - บทนำ (Introduction)](https://www.youtube.com/watch?v=8pBjNgQn4wI)<br>
-[]()<br>
+[Introduction to Set Theory](https://www.youtube.com/watch?v=vGelH3Jibt4&list=RDCMUCNVMxRMEwvo9AS-Jfh6fQFg&index=2)<br>
 []()<br>
 ```ก้อง รักสยาม DataRockie```<br>
 [Basic Statistics 101](https://www.youtube.com/watch?v=6WdLwsrXTNA&t=478s)<br>
