@@ -19,7 +19,7 @@
 [z-Test | การเลือกใช้ z-test และ t-test — สถิติเพื่อการวิเคราะห์ข้อมูล [LittleClass] (Stat z-Test 1)](https://www.youtube.com/watch?v=EPu4WCCrOW0)<br>
 [Z-statistics vs. T-statistics | Inferential statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=5ABpqVSx33I)<br>
 [How to Do a T-Test for Beginners](https://www.youtube.com/watch?v=qvPWQ-e03tQ)<br>
-[]()<br>
+[z-Test | คำนวณ z | พิสูจน์ค่าเฉลี่ย — สถิติเพื่อการวิเคราะห์ข้อมูล [LittleClass] (Stat z-Test 3)](https://www.youtube.com/watch?v=URgt9rKwQOQ)<br>
 ```ก้อง รักสยาม DataRockie```<br>
 [Basic Statistics 101](https://www.youtube.com/watch?v=6WdLwsrXTNA&t=478s)<br>
 [สถิติเบื้องต้น ม.6 EP.1/10 ความหมายของสถิติ - www.theorendatutor.com](https://www.youtube.com/watch?v=iR7yM4uYynA)<br>
