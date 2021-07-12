@@ -7,13 +7,18 @@
 [video นี้ดีมาก วิชาความน่าจะเป็นและสถิติประยุกต์สำหรับวิศวกร](https://www.youtube.com/watch?v=kUv3gaq7Jpw)<br>
 [[ Live ] สถิติทั้งบท (+การแจกแจงความน่าจะเป็น) part1 : By พี่ปั้น SmartMathPro](https://www.youtube.com/watch?v=VKblxmZfJ58)<br>
 
-``` Channel Access-Creator ```<br>
-[มาเริ่มต้นทำฐานข้อมูลกัน: Ep.1 (เขียน ER Diagram)](https://www.youtube.com/watch?v=HuztS7t9hZc)<br>
+``` Channel statslectures ```<br>
+[Effect Size](https://www.youtube.com/watch?v=hEx0ZShqRlc&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=3)<br>
+[Frequency Distributions and Cumulative Frequency Distributions](https://www.youtube.com/watch?v=_reCJBfnE7A&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=4)<br>
+[The Five Number Summary, Interquartile Range(IQR), and Boxplots](https://www.youtube.com/watch?v=MXIU5pQi3UM&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=6)<br>
+[Effect Size for Independent Samples t-Test](https://www.youtube.com/watch?v=wGlbyNBxEM8&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=7)<br>
+[Definition of nth Roots](https://www.youtube.com/watch?v=npVkoJwl374&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=8)<br>
+[One Sample t-Test](https://www.youtube.com/watch?v=VPd8DOL13Iw&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=9)<br>
 []()<br>
-[]()<br>
-```Channel = freeCodeCamp.org```<br>
-[Data Analytics Crash Course: Teach Yourself in 30 Days](https://www.youtube.com/watch?v=jcTj6FgWOpo)<br>
-[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug)<br>
+```Channel = Little Class ของคนไทยดีมากด้วย```<br>
+[z-Test | การเลือกใช้ z-test และ t-test — สถิติเพื่อการวิเคราะห์ข้อมูล [LittleClass] (Stat z-Test 1)](https://www.youtube.com/watch?v=EPu4WCCrOW0)<br>
+[Z-statistics vs. T-statistics | Inferential statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=5ABpqVSx33I)<br>
+[How to Do a T-Test for Beginners](https://www.youtube.com/watch?v=qvPWQ-e03tQ)<br>
 []()<br>
 ```ก้อง รักสยาม DataRockie```<br>
 [Basic Statistics 101](https://www.youtube.com/watch?v=6WdLwsrXTNA&t=478s)<br>
@@ -28,6 +33,16 @@
 [Linear Regression Using R](https://www.youtube.com/watch?v=SesWt4PDJdw&list=RDCMUClD8c_piy1nrJySPJUgyivg&index=6)<br>
 []()<br>
 []()<br>
+```Khan Academy```<br>
+[Two-sample t test for difference of means | AP Statistics | Khan Academy](https://www.youtube.com/watch?v=NkGvw18zlGQ)<br>
+[]()<br>
+```ทั่วไป```<br>
+[AP Stats - Inference Summary](https://www.youtube.com/watch?v=RUNbDM7iB6s)<br>
+[]()<br>
+``` Channel Access-Creator ```<br>
+[มาเริ่มต้นทำฐานข้อมูลกัน: Ep.1 (เขียน ER Diagram)](https://www.youtube.com/watch?v=HuztS7t9hZc)<br>
+[Hypothesis Testing - Difference of Two Means - Student's -Distribution & Normal Distribution](https://www.youtube.com/watch?v=UcZwyzwWU7o)<br>
+[]()<br>
 ``` Channel = Aj Earn KMUTNB ```<br>
 []()<br>
 []()<br>
@@ -35,6 +50,10 @@
 ```การถอดสแควรูท```<br>
 [การถอดสแควรูท](https://www.youtube.com/watch?v=pqOs_CTKQTw)<br>
 [Introduction to Set Theory](https://www.youtube.com/watch?v=vGelH3Jibt4&list=RDCMUCNVMxRMEwvo9AS-Jfh6fQFg&index=2)<br>
+[]()<br>
+```Channel = freeCodeCamp.org```<br>
+[Data Analytics Crash Course: Teach Yourself in 30 Days](https://www.youtube.com/watch?v=jcTj6FgWOpo)<br>
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug)<br>
 []()<br>
 ```วิดีโอกำลังใจเรียนวิชาฟิสิก```<br>
 [กฎเหล็ก 5 ข้อสู่ความเก่งวิชาคำนวณ (ฟิสิกส์+คณิต) - Study Secrets Ep.4](https://www.youtube.com/watch?v=eE2mr7ykn9Q)<br>
