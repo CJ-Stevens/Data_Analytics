@@ -45,11 +45,11 @@
 []()<br>
 ``` Channel = Aj Earn KMUTNB ```<br>
 []()<br>
-[]()<br>
-[]()<br>
 ```การถอดสแควรูท```<br>
 [การถอดสแควรูท](https://www.youtube.com/watch?v=pqOs_CTKQTw)<br>
 [Introduction to Set Theory](https://www.youtube.com/watch?v=vGelH3Jibt4&list=RDCMUCNVMxRMEwvo9AS-Jfh6fQFg&index=2)<br>
+[การหารพหุนาม](https://www.youtube.com/watch?v=zfdsyR7eLJc&list=RDCMUCZsmsUjz0GzHZXI3ibO_4lw&index=26)<br>
+[]()<br>
 []()<br>
 ```Channel = freeCodeCamp.org```<br>
 [Data Analytics Crash Course: Teach Yourself in 30 Days](https://www.youtube.com/watch?v=jcTj6FgWOpo)<br>
