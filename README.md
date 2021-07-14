@@ -38,7 +38,7 @@
 []()<br>
 ```ทั่วไป```<br>
 [AP Stats - Inference Summary](https://www.youtube.com/watch?v=RUNbDM7iB6s)<br>
-[]()<br>
+[อธิบายดีมาก แผนภาพกล่อง - Box plot](https://www.youtube.com/watch?v=b4WWo2bxSL0)<br>
 ``` Channel Access-Creator ```<br>
 [มาเริ่มต้นทำฐานข้อมูลกัน: Ep.1 (เขียน ER Diagram)](https://www.youtube.com/watch?v=HuztS7t9hZc)<br>
 [Hypothesis Testing - Difference of Two Means - Student's -Distribution & Normal Distribution](https://www.youtube.com/watch?v=UcZwyzwWU7o)<br>
