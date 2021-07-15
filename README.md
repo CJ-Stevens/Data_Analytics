@@ -6,7 +6,7 @@
 [ทำไม Data Scientist ต้องเรียน Unix ?](https://blog.datath.com/data-scientist-unix/)<br>
 [video นี้ดีมาก วิชาความน่าจะเป็นและสถิติประยุกต์สำหรับวิศวกร](https://www.youtube.com/watch?v=kUv3gaq7Jpw)<br>
 [[ Live ] สถิติทั้งบท (+การแจกแจงความน่าจะเป็น) part1 : By พี่ปั้น SmartMathPro](https://www.youtube.com/watch?v=VKblxmZfJ58)<br>
-
+[บทที่ 6-[2/14]- ตัวแปรสุ่มแบบต่อเนื่องและไม่ต่อเนื่อง](https://www.youtube.com/watch?v=APfXMJVKz3E)<br>
 ``` Channel statslectures ```<br>
 [Effect Size](https://www.youtube.com/watch?v=hEx0ZShqRlc&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=3)<br>
 [Frequency Distributions and Cumulative Frequency Distributions](https://www.youtube.com/watch?v=_reCJBfnE7A&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=4)<br>
@@ -42,6 +42,9 @@
 [การหาค่าสถิติพื้นฐานค่าเฉลี่ย ส่วนเบี่ยงเบนมาตรฐาน คะแนนต่ำสุด คะแนนสูงสุด ค่าความเบ้ ค่าความโด่ง](https://www.youtube.com/watch?v=I0CTsS7kuw4)<br>
 [การทดสอบสมมติฐานด้วย Multiple Regression](https://www.youtube.com/watch?v=I5gxIaKf22E)<br>
 [สถิติพื้นฐาน9 ตอนจบ แผนภาพกล่อง โค้งปกติ เบ้ซ้ายเบ้ขวา ONET](https://www.youtube.com/watch?v=80pjzrEuXG0)<br>
+[Nominal, ordinal, interval and ratio data: How to Remember the differences](https://www.youtube.com/watch?v=LPHYPXBK_ks)<br>
+[Statistics Lecture 1.3: Exploring Categories of Data, Levels of Measurement](https://www.youtube.com/watch?v=z6dtF1eJ3m4)<br>
+[Statistics Lecture 1.5: Sampling Techniques. How to Develop a Random Sample](https://www.youtube.com/watch?v=MfkJu7J1LE4)<br>
 ``` Channel Access-Creator ```<br>
 [มาเริ่มต้นทำฐานข้อมูลกัน: Ep.1 (เขียน ER Diagram)](https://www.youtube.com/watch?v=HuztS7t9hZc)<br>
 [Hypothesis Testing - Difference of Two Means - Student's -Distribution & Normal Distribution](https://www.youtube.com/watch?v=UcZwyzwWU7o)<br>
