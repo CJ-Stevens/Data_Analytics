@@ -7,6 +7,8 @@
 [video นี้ดีมาก วิชาความน่าจะเป็นและสถิติประยุกต์สำหรับวิศวกร](https://www.youtube.com/watch?v=kUv3gaq7Jpw)<br>
 [[ Live ] สถิติทั้งบท (+การแจกแจงความน่าจะเป็น) part1 : By พี่ปั้น SmartMathPro](https://www.youtube.com/watch?v=VKblxmZfJ58)<br>
 [บทที่ 6-[2/14]- ตัวแปรสุ่มแบบต่อเนื่องและไม่ต่อเนื่อง](https://www.youtube.com/watch?v=APfXMJVKz3E)<br>
+[One-way ANOVA](https://www.youtube.com/watch?v=4O2tlnVLj_k)<br>
+[ความรู้พื้นฐานทางสถิติ การแจกแจงความถี่](https://www.youtube.com/watch?v=ms8EXiSk9n0)<br>
 ``` Channel statslectures ```<br>
 [Effect Size](https://www.youtube.com/watch?v=hEx0ZShqRlc&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=3)<br>
 [Frequency Distributions and Cumulative Frequency Distributions](https://www.youtube.com/watch?v=_reCJBfnE7A&list=RDCMUCAw1xA2HV7NNq7aq-OSuE4g&index=4)<br>
