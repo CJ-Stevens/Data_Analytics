@@ -27,6 +27,7 @@
 [Basic Statistics 101](https://www.youtube.com/watch?v=6WdLwsrXTNA&t=478s)<br>
 [สถิติเบื้องต้น ม.6 EP.1/10 ความหมายของสถิติ - www.theorendatutor.com](https://www.youtube.com/watch?v=iR7yM4uYynA)<br>
 [สมบัติของความน่าจะเป็น](https://www.youtube.com/watch?v=awI6B02laME)<br>
+[[คณิต] สรุปสถิติ เนื้อๆเน้นๆเตรียมสอบโดยเฉพาะ](https://www.youtube.com/watch?v=XwSgB6nwyiM)<br>
 ```Channel "statisticsfun"ดีมากๆ Linear Regression Analysis```<br>
 [An Introduction to Linear Regression Analysis](https://www.youtube.com/watch?v=zPG4NjIkCjc)<br>
 [How to calculate linear regression using least square method](https://www.youtube.com/watch?v=JvS2triCgOY)<br>
